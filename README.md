@@ -30,8 +30,8 @@ Spring Boot project with dbatabase connection and req-response process.
 
 * 📷
 
-![req22](https://user-images.githubusercontent.com/83163617/208424363-018fe137-a005-4306-b330-08d50cf90c11.png)
+![req21](https://user-images.githubusercontent.com/83163617/208424661-88736758-e809-4069-b230-cf079d4950e1.png)
 
 * 📷
 
-![req21](https://user-images.githubusercontent.com/83163617/208424385-1b73e7ab-7fc9-4edf-864c-71e6a1729934.png)
+![req22](https://user-images.githubusercontent.com/83163617/208424686-7d78ead1-dff8-4ba6-9707-7389ad06e01c.png)
