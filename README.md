@@ -17,6 +17,7 @@ Spring Boot project with dbatabase connection and req-response process.
 * ✔ Programming language cannot be left blank. (Solve algorithmically by writing code without using validation)
 
 * 📷
+
 ![req1](https://user-images.githubusercontent.com/83163617/208424075-07d2362e-cc3b-4002-90fc-9bc36d053684.jpg)
 
 ### Req2: Sub technologies of programming languages should be able to be added or deleted to the system. can be updated and listed.
